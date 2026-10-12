@@ -48,10 +48,10 @@ Proceed when the problem is sufficiently clear and there is evidence-based reaso
 
 ### Core model: C.O.R.E.
 
-- **Customer:** for whom is value created, and how do they obtain it?
-- **Offering:** what carries and delivers the value?
-- **Relationship:** how is value established, delivered, and sustained?
-- **Experience:** how is value perceived and confirmed by the customer?
+- ***C*ustomer:** for whom is value created, and how do they obtain it?
+- ***O*ffering:** what carries and delivers the value?
+- ***R*elationship:** how is value established, delivered, and sustained?
+- ***E*xperience:** how is value perceived and confirmed by the customer?
 
 The dimensions interact. Use them to discover and clarify value levers, and redesign them when the current value logic is weak.
 

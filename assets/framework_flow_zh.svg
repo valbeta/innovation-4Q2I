@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 860" role="img" aria-label="4Q2I 框架流程">
+  <rect width="1200" height="860" fill="#F6F3E9"/>
+  <g stroke="#4A4A4A" stroke-width="1.2" fill="none">
+    <path d="M28 44H60M44 28V60"/>
+    <path d="M1140 44H1172M1156 28V60"/>
+    <path d="M28 816H60M44 800V832"/>
+    <path d="M1140 816H1172M1156 800V832"/>
+  </g>
+  <g font-family="Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif">
+    <rect x="325" y="82" width="560" height="132" rx="7" fill="#2E2A24" opacity="0.16"/>
+    <rect x="320" y="76" width="560" height="132" rx="7" fill="#E9E1CF" stroke="#2E2A24" stroke-width="1.6"/>
+    <text x="600" y="122" text-anchor="middle" font-size="30" font-weight="700" fill="#1A5F3A">Q1 | 可知</text>
+    <text x="600" y="156" text-anchor="middle" font-size="20" fill="#201D18">我们身处何处？</text>
+    <rect x="568" y="170" width="64" height="28" rx="14" fill="#F1EBDC" stroke="#7A7365"/>
+    <text x="600" y="189" text-anchor="middle" font-size="15" fill="#3A362E">机会</text>
+    <path d="M593 212H607V236H617L600 252L583 236H593Z" fill="#1A5F3A"/>
+    <rect x="335" y="262" width="540" height="132" rx="7" fill="#2E2A24" opacity="0.16"/>
+    <rect x="330" y="256" width="540" height="132" rx="7" fill="#E9E1CF" stroke="#2E2A24" stroke-width="1.6"/>
+    <text x="600" y="302" text-anchor="middle" font-size="30" font-weight="700" fill="#1A5F3A">Q2 | 可想</text>
+    <text x="600" y="336" text-anchor="middle" font-size="20" fill="#201D18">我们要去向何方？</text>
+    <rect x="531" y="350" width="138" height="28" rx="14" fill="#F1EBDC" stroke="#7A7365"/>
+    <text x="600" y="369" text-anchor="middle" font-size="15" fill="#3A362E">价值创造逻辑</text>
+    <path d="M593 392H607V416H617L600 432L583 416H593Z" fill="#1A5F3A"/>
+    <rect x="315" y="442" width="580" height="132" rx="7" fill="#2E2A24" opacity="0.16"/>
+    <rect x="310" y="436" width="580" height="132" rx="7" fill="#E9E1CF" stroke="#2E2A24" stroke-width="1.6"/>
+    <text x="600" y="482" text-anchor="middle" font-size="30" font-weight="700" fill="#1A5F3A">Q3 | 可赞</text>
+    <text x="600" y="516" text-anchor="middle" font-size="20" fill="#201D18">谁与我们同行——为何？</text>
+    <rect x="531" y="530" width="138" height="28" rx="14" fill="#F1EBDC" stroke="#7A7365"/>
+    <text x="600" y="549" text-anchor="middle" font-size="15" fill="#3A362E">利益相关者验证</text>
+    <path d="M593 572H607V596H617L600 612L583 596H593Z" fill="#1A5F3A"/>
+    <rect x="320" y="622" width="570" height="132" rx="7" fill="#2E2A24" opacity="0.16"/>
+    <rect x="315" y="616" width="570" height="132" rx="7" fill="#E9E1CF" stroke="#2E2A24" stroke-width="1.6"/>
+    <text x="600" y="662" text-anchor="middle" font-size="30" font-weight="700" fill="#1A5F3A">Q4 | 可行</text>
+    <text x="600" y="696" text-anchor="middle" font-size="20" fill="#201D18">我们如何到达那里？</text>
+    <rect x="531" y="710" width="138" height="28" rx="14" fill="#F1EBDC" stroke="#7A7365"/>
+    <text x="600" y="729" text-anchor="middle" font-size="15" fill="#3A362E">价值系统验证</text>
+    <text x="600" y="822" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="0.5" fill="#201D18">FIG.02 — 4Q2I 框架流程  |  状态: 测试中</text>
+  </g>
+</svg>

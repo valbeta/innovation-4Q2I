@@ -33,10 +33,10 @@ What value should we create, for whom, and through what logic?
 
 Q2 develops value-creation logic and an initial value proposition through **C.O.R.E.**:
 
-- **Customer** — for whom is value created, and how do they obtain it?
-- **Offering** — what carries and delivers the value?
-- **Relationship** — how is value established, delivered, and sustained?
-- **Experience** — how does the customer perceive and confirm the value?
+- ***C*ustomer** — for whom is value created, and how do they obtain it?
+- ***O*ffering** — what carries and delivers the value?
+- ***R*elationship** — how is value established, delivered, and sustained?
+- ***E*xperience** — how does the customer perceive and confirm the value?
 
 These are interrelated views of one value system, not independent workstreams.
 
