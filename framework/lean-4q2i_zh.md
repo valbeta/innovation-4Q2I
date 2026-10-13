@@ -1,4 +1,4 @@
-# Lean 4Q2I Framework｜最小 4Q2I 系统
+# Lean 4Q2I Framework｜最小创新四问系统
 
 ## 目的与定位
 
